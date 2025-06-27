@@ -157,7 +157,7 @@ public class ShequfuwuController {
 
 ## 联系信息
 如果你有任何问题或建议，请通过以下方式联系我们：
-- 邮箱：[your-email@example.com]
+- 邮箱：[1732446549@qq.com]
 
 ## 致谢
 感谢 TinyMCE 团队提供的优秀开源编辑器！感谢 Spring Boot、MyBatis-Plus、Vue.js、Layui 等开源项目的支持，为项目的开发提供了强大的技术基础！同时，感谢所有参与项目开发和测试的人员，你们的努力和贡献使得项目不断完善和进步！
